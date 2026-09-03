@@ -6,7 +6,7 @@
 Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Centro Universitário do Distrito Federal (UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios e boas práticas da engenharia de software.
 
 ### 👥 **WHO** (Quem?)
-- **Desenvolvedor(es):** João Guilherme Sousa Sales, Enzo cortes de Lima, Kaio
+- **Desenvolvedor(es):** João Guilherme Sousa Sales, Enzo cortes de Lima, Kaio, Samuel Borges Cordeiro
 - **Instituição:** Centro Universitário UDF 
 - **Disciplina:** Engenharia de Software
 
