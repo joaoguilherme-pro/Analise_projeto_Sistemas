@@ -9,7 +9,7 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 - **Desenvolvedor(es):**
 - [João Guilherme Sousa Sales]( https://github.com/joaoguilherme-pro )
 - Enzo cortes de Lima
-- Kaio
+- [Caio Gomes Neto Maia da Silva](https://github.com/Caiogms4238/APS)
 - Samuel Borges Cordeiro
 - **Instituição:** Centro Universitário UDF 
 - **Disciplina:** Engenharia de Software
