@@ -6,8 +6,8 @@ Modelo do template: https://miro.com/pt/modelos/moscow-matrix-basic/
 
 **Etapa:** Levantamento de Requisitos (Utilizar a ficha dos requisitos levantados) 
 **Técnica de Priorização:** MoSCoW  
-**Data:** ______/______/______
-**Turma:** __________________________  
+**Data:** ____10__/__09____/___2026___
+**Turma:** _D2_
 
 ---
 
@@ -15,12 +15,10 @@ Modelo do template: https://miro.com/pt/modelos/moscow-matrix-basic/
 
 | Integrante | Nome |
 |---|---|
-| 1 | |
-| 2 | |
-| 3 | |
-| 4 | |
-| 5 | |
-| 6 | |
+| 1 | João Guilherme Sousa Sales|
+| 2 |Enzo cortes de Lima |
+| 3 |Caio Gomes Neto Maia da Silva |
+| 4 | Samuel Borges Cordeiro|
 
 ---
 
@@ -35,7 +33,7 @@ Modelo do template: https://miro.com/pt/modelos/moscow-matrix-basic/
 ---
 
 # 3. Problema Identificado
-
+A falta de um canal no site da UDF dirigido para vagas de Estágio
 ## 3.1 Qual problema será resolvido?
 
 > Descreva o problema identificado pelo grupo.  
@@ -62,7 +60,7 @@ Modelo do template: https://miro.com/pt/modelos/moscow-matrix-basic/
 > Explique como as pessoas realizam atualmente o processo ou atividade relacionada ao problema.
 
 **Resposta:**
-
+abrindo uma matéria chamada estágios, porém ela só é atualizada a cada semestre
 > Preencher aqui.
 
 ---
