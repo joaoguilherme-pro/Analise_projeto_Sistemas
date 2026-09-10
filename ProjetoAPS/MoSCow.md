@@ -11,3 +11,4 @@ filtros de pesquisa, especialização, remuneração, empresa, localidade
 lembrete para abertura de vagas
 avaliações para empresas
 chat para comunicação entre recrutador e aluno
+
