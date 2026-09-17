@@ -85,7 +85,7 @@ Utilize como referência:
 
 **Objetivo:**
 
-> Preencher aqui.
+> O Nosso projeto planeja auxiliar na relação entre os recrutadores/vagas e os alunos contribuindo para a maior empregabilidade dos alunos da UDF.
 
 ---
 
@@ -173,8 +173,8 @@ Utilize preferencialmente a estrutura:
 
 | ID | Requisito Funcional | Stakeholder/Fonte | Necessidade | Prioridade |
 |---|---|---|---|---|
-| RF01 | O sistema deve... | | | |
-| RF02 | O sistema deve... | | | |
+| RF01 | O sistema deve aceitar o cadastro de Recrutadores | | | |
+| RF02 | O sistema deve  | | | |
 | RF03 | O sistema deve... | | | |
 | RF04 | O sistema deve... | | | |
 | RF05 | O sistema deve... | | | |
