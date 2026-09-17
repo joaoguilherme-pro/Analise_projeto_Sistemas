@@ -25,10 +25,10 @@ Modelo do template: https://miro.com/pt/modelos/moscow-matrix-basic/
 # 2. Identificação do Projeto
 
 **Nome do projeto:**  
-> Preencher aqui.
+Canal De Vagas UDF.
 
 **Descrição resumida do projeto:**  
-> Apresente, em um pequeno parágrafo, o contexto do projeto e sua finalidade.
+> Como Estudantes da rede UDF, setinmos falta de um canal oficial dentro da página da UDf direcionado aos estágios, esse projeto visa a criação dessa página para que quem prescisa desse sistema o produza.
 
 ---
 
@@ -41,7 +41,7 @@ A falta de um canal no site da UDF dirigido para vagas de Estágio
 
 **Resposta:**
 
-> Preencher aqui.
+>  A falta de um meio eficiente para relação entre recrutadores e estudantes da UDF e uma forma de conecta-los pelo próprio site da faculdade..
 
 ---
 
@@ -51,7 +51,7 @@ A falta de um canal no site da UDF dirigido para vagas de Estágio
 
 **Resposta:**
 
-> Preencher aqui.
+> Alunos e recrutadores .
 
 ---
 
@@ -60,8 +60,8 @@ A falta de um canal no site da UDF dirigido para vagas de Estágio
 > Explique como as pessoas realizam atualmente o processo ou atividade relacionada ao problema.
 
 **Resposta:**
-abrindo uma matéria chamada estágios, porém ela só é atualizada a cada semestre
-> Preencher aqui.
+
+> Abrindo uma matéria chamada estágios, porém ela só é atualizada a cada semestre.
 
 ---
 
@@ -69,9 +69,9 @@ abrindo uma matéria chamada estágios, porém ela só é atualizada a cada seme
 
 Liste pelo menos três dificuldades observadas.
 
-1. 
-2. 
-3. 
+1. A falta de atualizações recorrentes nas vagas
+2. Pesquisa sobre a vaga e a área de atuação do aluno
+3. utilização de outros sites para enviar a solicitação para a vaga
 
 ---
 
