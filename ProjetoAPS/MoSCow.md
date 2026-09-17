@@ -121,16 +121,16 @@ Registre as principais informações obtidas durante o levantamento.
 
 | Pergunta | Resposta |
 |---|---|
-| O que o usuário precisa fazer? | |
-| Qual problema enfrenta atualmente? | |
-| Quais informações precisa consultar? | |
-| Quais informações precisa cadastrar ou alterar? | |
+| O que o usuário precisa fazer? | Primeiramente o cadastro, e ápos adicionar as informações da sua vida acadêmica para melhores chances de conseguri aquele estágio |
+| Qual problema enfrenta atualmente? | A falta de um portal para cadastro de estágios especifico para os alunos da UDF|
+| Quais informações precisa consultar? |O login so com as informações para entrar no site da area do aluno, mas, na pagina a adição de informações como o currículo daquele estudante |
+| Quais informações precisa cadastrar ou alterar? | As informações acadêmicas externas as feitas na faculdade e que auxiliem na sua contratação |
 | Quais tarefas são repetitivas? | |
 | Quais tarefas consomem mais tempo? | |
 | Quais erros acontecem atualmente? | |
-| Precisa receber notificações? | |
+| Precisa receber notificações? | sim |
 | Precisa gerar documentos ou relatórios? | |
-| Existem informações que precisam ser protegidas? | |
+| Existem informações que precisam ser protegidas? | sim |
 | O sistema precisará se comunicar com outros sistemas? | |
 | Existem regras obrigatórias que precisam ser respeitadas? | |
 
