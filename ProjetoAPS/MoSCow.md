@@ -32,13 +32,9 @@ Canal De Vagas UDF (UDF NeedVagas.
 ---
 
 # 3. Problema Identificado
-A falta de um canal no site da UDF dirigido para vagas de Estágio
+
 ## 3.1 Qual problema será resolvido?
 
-> Descreva o problema identificado pelo grupo.  
-> Neste momento, concentre-se no problema e não na tecnologia que será utilizada.
-
-**Resposta:**
 
 >  A falta de um meio eficiente para relação entre recrutadores e estudantes da UDF e uma forma de conecta-los pelo próprio site da faculdade..
 
@@ -46,21 +42,14 @@ A falta de um canal no site da UDF dirigido para vagas de Estágio
 
 ## 3.2 Quem é afetado pelo problema?
 
-> Identifique os principais usuários, grupos ou organizações afetados.
-
-**Resposta:**
-
 > Alunos e recrutadores .
 
 ---
 
 ## 3.3 Como o problema é resolvido atualmente?
 
-> Explique como as pessoas realizam atualmente o processo ou atividade relacionada ao problema.
 
-**Resposta:**
-
-> Abrindo uma matéria chamada estágios, porém ela só é atualizada a cada semestre.
+> Abrindo uma matéria chamada estágios, porém ela só é atualizada a cada semestre e geralmente essas vagas já foram acessadas.
 
 ---
 
