@@ -1,6 +1,5 @@
-Modelo do template: https://miro.com/pt/modelos/moscow-matrix-basic/
 
-# 📋 Projeto de APS [Nome do projeto]
+# 📋 Projeto de APS [UDF NeedVagas]
 
 ## Levantamento e Priorização de Requisitos
 
@@ -25,7 +24,7 @@ Modelo do template: https://miro.com/pt/modelos/moscow-matrix-basic/
 # 2. Identificação do Projeto
 
 **Nome do projeto:**  
-Canal De Vagas UDF.
+Canal De Vagas UDF (UDF NeedVagas.
 
 **Descrição resumida do projeto:**  
 > Como Estudantes da rede UDF, setinmos falta de um canal oficial dentro da página da UDf direcionado aos estágios, esse projeto visa a criação dessa página para que quem prescisa desse sistema o produza.
