@@ -14,10 +14,10 @@
 
 | Integrante | Nome |
 |---|---|
-| 1 | João Guilherme Sousa Sales|
-| 2 |Enzo cortes de Lima |
-| 3 |Caio Gomes Neto Maia da Silva |
-| 4 | Samuel Borges Cordeiro|
+| 1 | [João Guilherme Sousa Sales]( https://github.com/joaoguilherme-pro )|
+| 2 |[Enzo cortes de Lima](https://github.com/CortesEnzo) |
+| 3 |[Caio Gomes Neto Maia da Silva](https://github.com/Caiogms4238/APS) |
+| 4 | [Samuel Borges Cordeiro](https://github.com/samuelsbc220)|
 
 ---
 
