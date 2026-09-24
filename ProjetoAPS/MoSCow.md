@@ -97,7 +97,7 @@ Identifique as pessoas, grupos ou organizações que possuem interesse ou partic
 |---|---|---|---|---|
 | ST01 | UDf|suporte da página inicial |Ajuda ao sistema com problema deles |*Alta*|
 | ST02 | Empresas de estágio| colocar suas vagas de estágio no sistema | ter mais um local para encotro específico de alunos da Udf | *Alta*|
-| ST03 | Alunos da UDF | inscrições e feedback do uso da página  |Utilização de um sistema de busca focado neles | Alta / Média / Baixa |
+| ST03 | Alunos da UDF | inscrições e feedback do uso da página  |Utilização de um sistema de busca focado neles | *Alta*
 | ST04 | | | | Alta / Média / Baixa |
 | ST05 | | | | Alta / Média / Baixa |
 
@@ -111,7 +111,7 @@ Identifique as pessoas, grupos ou organizações que possuem interesse ou partic
 
 **Por que ele foi considerado o principal stakeholder?**
 
-> Porque a pagina vai fazer parte da área do aluno do site da UDF, e ela que vai gerar esse encontro entre os alunos e os recrutadores, enquanto a nossa pagina so faz o relacionamento entre as vagas e os estagiários.
+> Porque a pagina vai fazer parte da área do aluno do site da UDF, e ela que vai gerar esse encontro entre os alunos e os recrutadores, enquanto a nossa página so faz o relacionamento entre as vagas e os estagiários.
 
 ---
 
