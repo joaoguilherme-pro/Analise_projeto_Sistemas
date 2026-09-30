@@ -83,9 +83,9 @@ Identifique as pessoas, grupos ou organizações que possuem interesse ou partic
 
 | ID | Stakeholder | Papel | Necessidade/Interesse | Influência |
 |---|---|---|---|---|
-| ST01 | UDf|suporte da página inicial |Ajuda ao sistema com problema deles |*Alta*|
-| ST02 | Empresas de estágio| colocar suas vagas de estágio no sistema | ter mais um local para encotro específico de alunos da Udf | *Alta*|
-| ST03 | Alunos da UDF | inscrições e feedback do uso da página  |Utilização de um sistema de busca focado neles | *Alta*
+| ST01 | coordenação da UDf (Kerlla)|suporte da página inicial e demonstraçpão das dificuldades de contato específico com as empresa que emitem estas vagas |Ajuda ao sistema com problema deles |*Alta*|
+| ST02 | Empresas de estágio (CIEE)| colocar suas vagas de estágio no sistema | ter mais um local para encotro específico de alunos da Udf | *Média*|
+| ST03 | Alunos da UDF de diversos cursos (Maria Eduarda Mendes) ( | inscrições e feedback do uso da página, usuários do sistema  |Utilização de um sistema de busca focado neles | *Alta*
 
 
 ---
@@ -94,11 +94,11 @@ Identifique as pessoas, grupos ou organizações que possuem interesse ou partic
 
 **Stakeholder:**
 
-> UDF.
+> Alunos de diversos cursos.
 
 **Por que ele foi considerado o principal stakeholder?**
 
-> Porque a pagina vai fazer parte da área do aluno do site da UDF, e ela que vai gerar esse encontro entre os alunos e os recrutadores, enquanto a nossa página so faz o relacionamento entre as vagas e os estagiários.
+> Porque a pagina vai ser focada neles e a partir da conversa com eles principalmente com a Maria, descobrimos que a maioria dos alunos empregados foram por indicação de outra pessoa e não pelo sistema de vagas disponibilizado pela UDF.
 
 ---
 
@@ -112,14 +112,14 @@ Registre as principais informações obtidas durante o levantamento.
 | Qual problema enfrenta atualmente? | A falta de um portal para cadastro de estágios especifico para os alunos da UDF|
 | Quais informações precisa consultar? |O login so com as informações para entrar no site da area do aluno, mas, na pagina a adição de informações como o currículo daquele estudante |
 | Quais informações precisa cadastrar ou alterar? | As informações acadêmicas externas as feitas na faculdade e que auxiliem na sua contratação |
-| Quais tarefas são repetitivas? | |
-| Quais tarefas consomem mais tempo? | |
-| Quais erros acontecem atualmente? | |
-| Precisa receber notificações? | sim |
-| Precisa gerar documentos ou relatórios? | |
+| Quais tarefas são repetitivas? | As incrições tantos em vagas abertas, como para a criação de novas vagas |
+| Quais tarefas consomem mais tempo? |O login e a criação e edição do perfil |
+| Quais erros acontecem atualmente? | A falta de visibilidade e dificil acesso ao portal de vagas |
+| Precisa receber notificações? | Se mostra necessário |
+| Precisa gerar documentos ou relatórios? | Bom mas não ncessário |
 | Existem informações que precisam ser protegidas? | sim |
-| O sistema precisará se comunicar com outros sistemas? | |
-| Existem regras obrigatórias que precisam ser respeitadas? | |
+| O sistema precisará se comunicar com outros sistemas? | precisará se comunicar com o sistema da Udf e poderá se expandir com sistemas como o do CIEE |
+| Existem regras obrigatórias que precisam ser respeitadas? | Regras para a segurança do site como a de privacidade dos usuários |
 
 ---
 
@@ -129,14 +129,11 @@ Antes de escrever os requisitos, registre as necessidades identificadas durante 
 
 | ID | Stakeholder | Necessidade Identificada | Problema Relacionado |
 |---|---|---|---|
-| N01 | | | |
-| N02 | | | |
-| N03 | | | |
-| N04 | | | |
-| N05 | | | |
-| N06 | | | |
-| N07 | | | |
-| N08 | | | |
+| N01 | Alunos | falta de conhecimento das vagas | A falta de um local de visibilidade e contado |
+| N02 | Alunos | Vagas que pedem muita experiência para um estágio | A falta de um feedback para os contratantes das suas metas irreais para um estudante em começo de carreira |
+| N03 |CIEE | Desconhecimento das grades dos cursos ofertados | Para conseguirem fazer vagas de estágio dentro das capacidades dos estudantes, os contratantes teriam de ter essa conversa com a universidade para entender quais as matérias ofertadas em cada semestre |
+| N04 | Coordenação UDF | Sistema mais eficiente | O sistema ofertado parece escondido dos alunos o que gera menos inscrições para estas vagas |
+
 
 ---
 
