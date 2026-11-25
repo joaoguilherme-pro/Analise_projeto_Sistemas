@@ -40,8 +40,6 @@ pip install mkdocs-material
 mkdocs serve
 ```
 
-Acesse `http://127.0.0.1:8000/` no navegador.
-
 ## Publicar no GitHub Pages
 
 O site é publicado pelo GitHub Actions na branch `gh-pages`. Nas configurações de *Pages* do repositório, selecione a branch `gh-pages` como fonte da publicação.
@@ -52,4 +50,4 @@ João Guilherme Sousa Sales · Enzo Cortes de Lima · Caio Gomes Neto Maia da Si
 
 ## Licença
 
-Consulte o arquivo [`LICENÇA`](LICENÇA) para verificar os termos de uso deste projeto.
+© Equipe NeedVagas
