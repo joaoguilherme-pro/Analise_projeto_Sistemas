@@ -1,6 +1,8 @@
 # UDF NeedVagas — Projeto Final
 
-🌐 **Acesse o site do projeto:** [https://joaoguilherme-pro.github.io/Analise_projeto_Sistemas/](https://joaoguilherme-pro.github.io/Analise_projeto_Sistemas/)
+<p align="center">
+  <a href="https://joaoguilherme-pro.github.io/Analise_projeto_Sistemas/"><strong>Documentação</strong></a> ·
+</p>
 
 O **UDF NeedVagas** é uma proposta de canal oficial de estágios voltado aos estudantes da UDF. O projeto busca aproximar alunos e recrutadores, facilitando a divulgação e a consulta de oportunidades de estágio em um espaço direcionado à comunidade acadêmica.
 
