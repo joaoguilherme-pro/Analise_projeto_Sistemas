@@ -1,4 +1,11 @@
-# UDF NeedVagas — Projeto Final
+{
+  "endpoint": "/repos/joaoguilherme-pro/Analise_projeto_Sistemas/contents",
+  "page": null,
+  "perPage": 100,
+  "repo": "joaoguilherme-pro/Analise_projeto_Sistemas",
+  "task": "Check repository structure before updating the README banner",
+  "userQuery": "Replace the UDF NeedVagas project title with a visually similar banner like the attached image."
+}
 
 <p align="center">
   <a href="https://joaoguilherme-pro.github.io/Analise_projeto_Sistemas/"><strong>Documentação</strong></a> ·
