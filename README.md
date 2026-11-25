@@ -1,45 +1,55 @@
-{
-  "endpoint": "/repos/joaoguilherme-pro/Analise_projeto_Sistemas/contents",
-  "page": null,
-  "perPage": 100,
-  "repo": "joaoguilherme-pro/Analise_projeto_Sistemas",
-  "task": "Check repository structure before updating the README banner",
-  "userQuery": "Replace the UDF NeedVagas project title with a visually similar banner like the attached image."
-}
+<p align="center">
+  <img src="https://placehold.co/1200x260/123b70/ffffff?text=UDF+NEED+VAGAS" alt="UDF NeedVagas" width="100%">
+</p>
+
+<p align="center">
+  Canal oficial de estágios para aproximar estudantes da UDF e recrutadores.<br>
+  Projeto da disciplina Análise de Projeto de Sistemas — Centro Universitário UDF, turma D2, 2026.
+</p>
 
 <p align="center">
   <a href="https://joaoguilherme-pro.github.io/Analise_projeto_Sistemas/"><strong>Documentação</strong></a> ·
+  <a href="ProjetoAPS/">Projeto acadêmico</a> ·
+  <a href="MVP/">Documentação MkDocs</a>
 </p>
-
-O **UDF NeedVagas** é uma proposta de canal oficial de estágios voltado aos estudantes da UDF. O projeto busca aproximar alunos e recrutadores, facilitando a divulgação e a consulta de oportunidades de estágio em um espaço direcionado à comunidade acadêmica.
-
-## Problema e objetivo
-
-Atualmente, a divulgação de vagas pode ser pouco frequente e difícil de encontrar. Isso dificulta que estudantes conheçam oportunidades adequadas ao seu curso e que recrutadores encontrem candidatos. O objetivo do NeedVagas é tornar essa conexão mais acessível e contribuir para a empregabilidade dos alunos da UDF.
-
-## O que você encontra neste projeto
-
-- Análise do cenário atual e da solução proposta;
-- levantamento e documentação dos requisitos funcionais e de qualidade;
-- identificação de stakeholders e necessidades;
-- priorização dos requisitos e definição do MVP;
-- rastreabilidade, regras de negócio e reflexão sobre o processo.
-
-## Documentação
-
-A documentação completa está disponível no [site do UDF NeedVagas](https://joaoguilherme-pro.github.io/Analise_projeto_Sistemas/). Os arquivos-fonte da documentação ficam na pasta [`MVP/`](MVP/), e os materiais do projeto acadêmico estão em [`ProjetoAPS/`](ProjetoAPS/).
-
-## Equipe
-
-- [João Guilherme Sousa Sales](https://github.com/joaoguilherme-pro)
-- [Enzo Cortes de Lima](https://github.com/CortesEnzo)
-- [Caio Gomes Neto Maia da Silva](https://github.com/Caiogms4238)
-- [Samuel Borges Cordeiro](https://github.com/samuelsbc220)
-
-## Contexto acadêmico
-
-Projeto final desenvolvido para a disciplina de Engenharia de Software / Análise de Projeto de Sistemas, no Centro Universitário do Distrito Federal (UDF), turma D2.
 
 ---
 
-> Este repositório reúne a análise e a documentação da proposta UDF NeedVagas.
+## Sobre
+
+O **UDF NeedVagas** é uma proposta de canal oficial de estágios voltada aos estudantes da UDF. O projeto busca aproximar alunos e recrutadores, facilitando a divulgação e a consulta de oportunidades em um ambiente direcionado à comunidade acadêmica.
+
+Hoje, as vagas nem sempre estão atualizadas ou são fáceis de encontrar. O projeto pretende tornar o processo mais eficiente, permitindo a divulgação de oportunidades adequadas aos cursos da UDF e oferecendo aos estudantes um ambiente organizado para conhecer vagas e apresentar seus dados profissionais.
+
+A visão do produto, os requisitos funcionais e de qualidade, as regras de negócio, a rastreabilidade e a priorização do MVP estão disponíveis na [documentação do projeto](https://joaoguilherme-pro.github.io/Analise_projeto_Sistemas/).
+
+## Organização do repositório
+
+| Onde | O quê |
+| --- | --- |
+| [`MVP/`](MVP/) | documentação do produto em MkDocs Material |
+| [`MVP/docs/`](MVP/docs/) | páginas sobre cenário, solução, requisitos, processo e equipe |
+| [`ProjetoAPS/`](ProjetoAPS/) | materiais de levantamento, priorização e análise dos requisitos |
+| [`LICENÇA`](LICENÇA) | termos de uso e distribuição deste projeto |
+
+## Rodar a documentação
+
+```bash
+cd MVP
+pip install mkdocs-material
+mkdocs serve
+```
+
+Acesse `http://127.0.0.1:8000/` no navegador.
+
+## Publicar no GitHub Pages
+
+O site é publicado pelo GitHub Actions na branch `gh-pages`. Nas configurações de *Pages* do repositório, selecione a branch `gh-pages` como fonte da publicação.
+
+## Equipe UDF NeedVagas
+
+João Guilherme Sousa Sales · Enzo Cortes de Lima · Caio Gomes Neto Maia da Silva · Samuel Borges Cordeiro
+
+## Licença
+
+Consulte o arquivo [`LICENÇA`](LICENÇA) para verificar os termos de uso deste projeto.
