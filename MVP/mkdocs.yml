@@ -1,0 +1,69 @@
+site_name: UDF NeedVagas - Documentação
+site_description: Documentação do projeto UDF NeedVagas, canal de estágios para alunos da UDF.
+repo_url: https://github.com/Caiogms4238/APS
+repo_name: APS-UDF-NeedVagas
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/needvagas-logo.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Início: index.md
+  - Produto:
+      - Cenário atual: produto/cenario-atual.md
+      - Solução proposta: produto/solucao-proposta.md
+  - Requisitos:
+      - Requisitos funcionais: requisitos/funcionais.md
+      - Requisitos de qualidade: requisitos/qualidade.md
+      - Restrições e regras de negócio: requisitos/restricoes-e-regras.md
+      - Rastreabilidade: requisitos/rastreabilidade.md
+      - Priorização e MVP: requisitos/priorizacao-e-mvp.md
+  - Processo e equipe:
+      - Equipe e stakeholders: processo/equipe.md
+      - Revisão, reflexão e conclusão: processo/revisao-e-reflexao.md
